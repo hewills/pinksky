@@ -27,10 +27,10 @@ And as always..**SAVE** often!
 
 ### Screenshots
 ---
-![alt text](https://github.com/hewills/pinksky/tree/master/Compiled/pinksky1.png "Title Screen")
+![Title Screen](https://github.com/hewills/pinksky/blob/master/Compiled/pinksky1.png "Title Screen")
 ###### Title Screen
 
-![alt text](https://github.com/hewills/pinksky/tree/master/Compiled/pinksky2.png "First Screen")
+![First game room](https://github.com/hewills/pinksky/blob/master/Compiled/pinksky2.png "First Screen")
 ###### Inside the mars mining shelter
 
 ### Other Credits
